@@ -17,6 +17,6 @@ This App will be developed using Java language to write all the logics and layou
 
 # Below is what this app looks like
 
-![Alt text](/app/screenshot translate/Screenshot_20200530-163205_My Translator.jpg?raw=true "Optional Title")
+![Alt text](/app/screenshot%20translate/Screenshot_20200530-163205_My%20Translator.jpg?raw=true "Optional Title")
 
 ![Alt text](/app/screenshot/Screenshot%202020-05-19%20at%2013.12.04.png?raw=true "Optional Title")
