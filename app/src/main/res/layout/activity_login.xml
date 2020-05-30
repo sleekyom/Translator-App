@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backimage"
+    tools:context=".Activities.Login">
+
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200sp"
+        android:layout_marginBottom="92dp"
+        android:backgroundTint="#ffff"
+        android:src="@drawable/logo"
+        app:layout_constraintBottom_toTopOf="@+id/linearLayout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="40dp"
+        android:layout_marginBottom="120sp"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+           android:text="Please SignIn To Continue"
+            android:textColor="@color/white"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-smallcaps"
+            android:tint="@color/white" />
+
+        <Button
+            android:id="@+id/btnSignIn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="20sp"
+            android:backgroundTint="@color/white"
+            android:drawableLeft="@drawable/google"
+            android:fontFamily="casual"
+            android:gravity="center"
+            android:paddingStart="10sp"
+            android:text="\t\tSign In With Google" />
+    </LinearLayout>
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

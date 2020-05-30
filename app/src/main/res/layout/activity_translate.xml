@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/white"
+    tools:context=".Activities.Translate">
+
+    <LinearLayout
+        android:id="@+id/linearLayout"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/colorPrimary"
+        android:orientation="horizontal"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        >
+        <ImageView
+            android:id="@+id/back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center_vertical"
+            android:layout_marginStart="5dp"
+            android:src="@drawable/back"
+            android:tint="@color/white" />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center_vertical"
+            android:fontFamily="serif"
+            android:gravity="start|center"
+            android:paddingStart="60dp"
+            android:text="Subscribe Languages"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+    </LinearLayout>
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Phrase/Word"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:fontFamily="sans-serif-smallcaps"
+        />
+   <Spinner
+       android:id="@+id/spnrPhrases"
+       android:layout_width="match_parent"
+       android:layout_height="50dp"
+       />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select Target Language"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:fontFamily="sans-serif-smallcaps"
+        />
+    <Spinner
+        android:id="@+id/spnrLanguage"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        />
+
+    <Button
+        android:id="@+id/btnTranslate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Translate"
+        android:backgroundTint="@color/colorPrimary"
+        android:textColor="@color/white"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Translation Result"
+        android:gravity="center"
+        android:textColor="@color/colorPrimary"
+        android:textSize="25sp"
+        android:fontFamily="sans-serif-smallcaps"
+        />
+    <TextView
+        android:id="@+id/txtResult"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="No Result"
+        android:textSize="19sp"
+        android:layout_marginTop="10dp"
+        android:fontFamily="sans-serif-smallcaps"
+        />
+
+
+</LinearLayout>

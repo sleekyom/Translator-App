@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "751156192292",
+    "firebase_url": "https://quick-translator-e6ee1.firebaseio.com",
+    "project_id": "quick-translator-e6ee1",
+    "storage_bucket": "quick-translator-e6ee1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751156192292:android:2d3731b228e6f04e25e4b1",
+        "android_client_info": {
+          "package_name": "com.quick.translator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751156192292-3d31kksl2clo06hvulu94nmgts1a9geq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quick.translator",
+            "certificate_hash": "338347f87f42e0bd9ddf26ffdb2e89e980d0eb6d"
+          }
+        },
+        {
+          "client_id": "751156192292-m1is7g15i3o7ll6l33a25ddm0ttd2no3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGDO_Yo5cEfZwTZtI620tSuSCCDJ0rfuk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751156192292-m1is7g15i3o7ll6l33a25ddm0ttd2no3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
