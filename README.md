@@ -17,8 +17,16 @@ This App will be developed using Java language to write all the logics and layou
 
 # Below is what this app looks like
 
-![Alt text](/app/screenshot%20translate/Screenshot_20200530-163205_My%20Translator.jpg?raw=true "Optional Title")
+<a href="url"><img src="https://github.com/sleekyom/Translator-App/blob/master/app/screenshot%20translate/Screenshot_20200530-163205_My%20Translator.jpg" align="left" height="350" width="350" ></a>
 
-<a href="url"><img src="https://github.com/sleekyom/Translator-App/blob/master/app/screenshot%20translate/Screenshot_20200530-163205_My%20Translator.jpg" align="left" height="48" width="48" ></a>
+<a href="url"><img src="https://github.com/sleekyom/Translator-App/blob/master/app/screenshot%20translate/Screenshot_20200530-163205_My%20Translator.jpg" align="left" height="350" width="350" ></a>
 
-![Alt text](/app/screenshot/Screenshot%202020-05-19%20at%2013.12.04.png?raw=true "Optional Title")
+<a href="url"><img src="https://github.com/sleekyom/Translator-App/blob/master/app/screenshot%20translate/Screenshot_20200530-163205_My%20Translator.jpg" align="left" height="350" width="350" ></a>
+
+<a href="url"><img src="https://github.com/sleekyom/Translator-App/blob/master/app/screenshot%20translate/Screenshot_20200530-163205_My%20Translator.jpg" align="left" height="350" width="350" ></a>
+
+<a href="url"><img src="https://github.com/sleekyom/Translator-App/blob/master/app/screenshot%20translate/Screenshot_20200530-163205_My%20Translator.jpg" align="left" height="350" width="350" ></a>
+
+<a href="url"><img src="https://github.com/sleekyom/Translator-App/blob/master/app/screenshot%20translate/Screenshot_20200530-163205_My%20Translator.jpg" align="left" height="350" width="350" ></a>
+
+<a href="url"><img src="https://github.com/sleekyom/Translator-App/blob/master/app/screenshot%20translate/Screenshot_20200530-163205_My%20Translator.jpg" align="left" height="350" width="350" ></a>
